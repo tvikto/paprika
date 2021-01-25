@@ -3,3 +3,42 @@ body
     background-color: #FFEFD5;
     color: #8B4513;
 }
+table
+{
+    width: 300px;
+    border-collapse: collapse;
+    margin: auto;
+}
+td
+{
+    border: 1px solid rgb(126, 122, 122);
+}
+#tr1
+{
+    width: 120px;
+    text-align:center;
+}
+#tr2
+{
+    width: 120px;
+    text-align:center;
+    background-color: rgb(93, 196, 93);
+}
+#tr3
+{
+    width: 120px;
+    text-align:center;
+    background-color: rgb(214, 203, 49);
+}
+#tr4
+{
+    width: 120px;
+    text-align:center;
+    background-color: rgb(243, 89, 89);
+}
+#tr5
+{
+    width: 120px;
+    text-align:center;
+    background-color: rgb(240, 107, 213);
+}
