@@ -53,3 +53,7 @@ header
     background-repeat: no-repeat;
     background-size: 75%;
 }
+li
+{
+    list-style-image: url(../img/chili-pepper-icon.gif);
+}
