@@ -42,3 +42,14 @@ td
     text-align:center;
     background-color: rgb(240, 107, 213);
 }
+h1
+{
+    padding: 30px 20px 30px 20px;
+    color: black;
+}
+header
+{
+    background-image: url(../img/szines.jpg);
+    background-repeat: no-repeat;
+    background-size: 75%;
+}
