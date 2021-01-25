@@ -1,5 +1,6 @@
 body
 {
+    margin: -1.5% 15% 0% 15%;
     background-color: #FFEFD5;
     color: #8B4513;
 }
@@ -51,15 +52,14 @@ header
 {
     background-image: url(../img/szines.jpg);
     background-repeat: no-repeat;
-    background-size: 75%;
+    background-size: 100%;
 }
 li
 {
     list-style-image: url(../img/chili-pepper-icon.gif);
-    padding: 1% 0.5% 1% 0.5%;
+    padding: 3% 0.5% 3% 0.5%;
     border: 1px solid rgb(77, 178, 186);
-    margin: 0.5% 0% 0% 0.5%;
-    width: 200px;
+    margin: 4% 0% 0% 0%;
     font-weight: bold;
     background-color: rgb(232, 241, 242);
 }
@@ -67,4 +67,15 @@ a, a:hover, a:visited
 {
     text-decoration: none;
     color: rgb(21, 21, 56);
+}
+article
+{
+    margin-left: 35%;
+    text-align: justify;
+}
+nav
+{
+    position: absolute;
+    width: 17%;
+    margin-top: -1%;
 }
